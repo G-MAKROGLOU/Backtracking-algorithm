@@ -13,7 +13,7 @@ Backtracking algorithm
 
 To run the project:
 Open it in IntelijIdea or Eclipse and it should be ready for building and running it.
-If you it does not detect the class with the main method immediately, you can configure it by doing the following:
+If it does not detect the class with the main method immediately, you can configure it by doing the following:
 1) Click the dropdown next to the hammer icon on top right
 2) Select Edit configurations
 3) In the new window click the plus icon on the top left
